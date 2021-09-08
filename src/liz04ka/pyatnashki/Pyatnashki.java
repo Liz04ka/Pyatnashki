@@ -1,4 +1,3 @@
-
 package liz04ka.pyatnashki;
 
 import javax.swing.*;
